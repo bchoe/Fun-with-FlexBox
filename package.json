@@ -1,7 +1,7 @@
 {
   "name": "fun-with-flexbox",
   "version": "1.0.0",
-  "description": "",
+  "description": "FlexBox Fun!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +12,13 @@
     "gulp": "^3.9.1",
     "browser-sync": "^2.11.2",
     "gulp-sass": "^2.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bchoe/Fun-with-FlexBox.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bchoe/Fun-with-FlexBox/issues"
+  },
+  "homepage": "https://github.com/bchoe/Fun-with-FlexBox#readme"
 }
